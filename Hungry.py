@@ -6,3 +6,6 @@ if Hungry=="yes":
     print "eat fries"
 else:
     print "do your job"
+thirsty = raw_input("are you thirsty?")
+if thirsty=="yes":
+    print "drink water"
