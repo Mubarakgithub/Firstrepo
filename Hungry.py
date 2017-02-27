@@ -1,5 +1,5 @@
 Hungry = raw_input("Are you hungry?")
-if Hungry=="yes":
+if Hungry=="yes" or "YES":
     print "eat pizza"
     print "eat burger"
     print "eat samosa"
